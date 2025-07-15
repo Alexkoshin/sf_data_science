@@ -5,5 +5,5 @@ From [Skillfactory Data Science course](https://apps.skillfactory.ru/learning/co
 ## Проекты
 
 * [Проект 0. Игра: Угадай число](https://github.com/Alexkoshin/sf_data_science/tree/main/project_0)
-* [Проект 1. ______](____)
+* [Проект 1. Числовая угадайка. Продвинутая](https://github.com/Alexkoshin/sf_data_science/tree/main/project_1)
 * [Проект 2. ______](____)
